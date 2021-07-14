@@ -1,7 +1,7 @@
 # Python Projects for Beginners 
 <hr>
 
-### 1.  DiceSimulator
+### 1.  Dice Simulator
 The program simulates a dice which rolls when input is given as yes ('y').
 
 <br>
