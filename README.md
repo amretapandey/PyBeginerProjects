@@ -12,7 +12,7 @@ The program encrypts the given string with the key using Ceaser Cipher Encryptio
 <br>
 
 ### 3.  Run-Length Encoding
-The program encodes the given string with the key using Ceaser Cipher Encryption.
+The program encodes the given string using Run-Length Encoding Technique.
 
 <br>
 
