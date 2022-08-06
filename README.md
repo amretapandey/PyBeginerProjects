@@ -22,4 +22,9 @@ one upper case character, a number and a symbol.
 
 <br>
 
+### 5.  Rock Paper Scissors
+The classic rock paper scissors game.
+
+<br>
+
 ###
